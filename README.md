@@ -5,7 +5,7 @@
     </center>
   </a>
   <br>
-  <h1 align="center"><center>elementary OS</center></h1>
+    <h1 align="center"><center>elementary OS</center></h1>
   <h3 align="center"><center>Build scripts for image creation</center></h3>
   <br>
   <br>
