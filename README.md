@@ -1,20 +1,13 @@
 <div align="center">
-  <a href="https://elementary.io" align="center">
-    <center align="center">
-      <img src="https://raw.githubusercontent.com/elementary/brand/master/logomark-black.png" alt="elementary" align="center">
-    </center>
-  </a>
   <br>
-  <h1 align="center"><center>elementary OS</center></h1>
-  <h3 align="center"><center>Build scripts for image creation</center></h3>
+  <h1 align="center"><center>ZEZE OS</center></h1>
+  <h3 align="center"><center>A clean, beautiful OS with universal compatiblity</center></h3>
   <br>
   <br>
 </div>
 
 <p align="center">
-  <img src="https://github.com/elementary/os/workflows/stable/badge.svg" alt="Stable">
-  <img src="https://github.com/elementary/os/workflows/daily-5.1/badge.svg" alt="Daily 5.1">
-  <img src="https://github.com/elementary/os/workflows/daily-6.0/badge.svg" alt="Daily 6.0">
+  This OS is based mainly on elementary OS. Below is the README for elemenatry OS:
 </p>
 
 ---
